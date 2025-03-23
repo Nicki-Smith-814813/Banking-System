@@ -1,3 +1,10 @@
+//************************************************************************
+//Author.....: Nicki Smith
+//Assignment.: Banking-System
+//Description: A simple program that mimics an ATM's display with choices.
+//**************************************************************************
+
+
 #include <iostream>
 using namespace std;
 
