@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "C:\Users\snick\Documents\GitHub\Banking-System\main.cpp",
+            "program": "main.cpp",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
